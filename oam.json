@@ -1,0 +1,6 @@
+{
+  "kubernetes": {
+    "kubeconfig" : "/Users/diyi/.kube/config",
+    "qps" : 100
+  }
+}

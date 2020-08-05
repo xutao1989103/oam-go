@@ -1,0 +1,7 @@
+version: "2"
+domain: oam.io
+repo: github.com/xutao1989103/oam-go
+resources:
+- group: apps
+  version: v1alpha1
+  kind: Pipeline
